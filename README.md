@@ -5,5 +5,6 @@ public-notes/
 │
 ├── README.md
 │
-└── germany/   # Notes related to research stays in Germany
-    └── visa-stuttgart-researcher.md
+└── germany/    # Notes related to research stays in Germany
+    └── visa-stuttgart-researcher.md    # About visa application
+
