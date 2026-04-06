@@ -3,3 +3,7 @@
 # Track only PDFs under paper_note.
 paper_note/*
 !paper_note/*.pdf
+
+# Track only PDFs under germany.
+germany/*
+!germany/*.pdf
