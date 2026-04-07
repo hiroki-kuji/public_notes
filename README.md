@@ -18,5 +18,3 @@ public_notes/
 `germany/` contains personal notes related to research stays in Germany.
 
 `paper_note/` contains informal notes on topics and papers I am interested in. Since these are memo-style summaries, they may include mistakes or incomplete interpretations. If you notice any issues or have comments, please let me know.
-
-This repository tracks exported PDF files only. Source `.md`, `.tex`, and LaTeX build artifacts are kept out of Git.
