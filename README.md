@@ -8,8 +8,6 @@ public_notes/
 │   ├── health-insurance.pdf
 │   └── visa-stuttgart-researcher.pdf
 └── paper_note/
-    ├── Entanglement_accelerates_quantum_simulation.pdf
-    ├── OTOC.pdf
     └── dual_species_NAQC_note.pdf
 ```
 

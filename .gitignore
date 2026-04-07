@@ -1,8 +1,8 @@
 .DS_Store
 
-# Track only PDFs under paper_note.
+# Track only dual_species_NAQC_note.pdf under paper_note.
 paper_note/*
-!paper_note/*.pdf
+!paper_note/dual_species_NAQC_note.pdf
 
 # Track only PDFs under germany.
 germany/*
