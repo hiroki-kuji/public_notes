@@ -3,6 +3,14 @@
 # Track only dual_species_NAQC_note.pdf under paper_note.
 paper_note/*
 !paper_note/dual_species_NAQC_note.pdf
+!paper_note/.latexmkrc
+!paper_note/Hamiltonian_sim_algorithm.tex
+!paper_note/Hamiltonian_sim_algorithm.pdf
+!paper_note/QEM.tex
+!paper_note/QEM.pdf
+!paper_note/Trotter.tex
+!paper_note/Trotter.pdf
+!paper_note/refs.bib
 
 # Track only PDFs under germany.
 germany/*
